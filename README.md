@@ -68,7 +68,7 @@
 
 **语言和平台**：Python · JavaScript · Shell · Abaqus Scripting (Python) · MATLAB
 
-**AI / 框架**：LangChain · Codex API · OpenAI API · LLM Agentic Workflows · RAG
+**AI / 框架**：Codex API · OpenAI API · LLM Agentic Workflows · RAG
 
 **工程工具**：Abaqus / CAE · ANSYS Workbench · FEA / FEM · Scientific Computing
 
