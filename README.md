@@ -13,7 +13,7 @@
 
 ## 关于我
 
-你好 👋 我是BINGYUN JIANG。白天搞工程仿真和 CAE，晚上折腾 AI 科研工作流。一个在工程学界和技术世界之间反复横跳的研究者。
+你好 👋 我是江丙云。白天搞工程仿真和 CAE，晚上折腾 AI 科研工作流。一个在工程学界和技术世界之间反复横跳的研究者。
 
 - 🎓 上海交通大学工学博士、📍 浙江大学工程博士
 - 📚 已出版 6 本工程技术著作（有限元/CAE 方向）
@@ -57,7 +57,9 @@
 
 ## 代表论文
 
-**Bingyun Jiang**, Shaorui Zhang. "The effects of strain rate and grain size on nanocrystalline materials: A theoretical prediction." *Materials & Design*, 87, 49–52, 2015. [DOI: 10.1016/j.matdes.2015.08.012](https://doi.org/10.1016/j.matdes.2015.08.012)
+1. **Bingyun Jiang**, Shaorui Zhang. "The effects of strain rate and grain size on nanocrystalline materials: A theoretical prediction." *Materials & Design*, 87, 49–52, 2015. [DOI: 10.1016/j.matdes.2015.08.012](https://doi.org/10.1016/j.matdes.2015.08.012) — 被引 12 次
+2. **Bingyun Jiang**, Li Li, Huilin Huang. "A structural analysis method for plastics (SAMP) based on integral constitutive model." *Proceedings of the 2016 International Conference on Architectural Engineering and Civil Engineering (AECE 2016)*, 2016. [DOI: 10.2991/aest-16.2016.130](https://doi.org/10.2991/aest-16.2016.130)
+3. **Bingyun Jiang**, Chen Tian. "Integrated Prediction of Mechanical Behavior for the Non-Aging Materials at Various Strain Rates." *Journal of Engineering Materials and Technology*, 143(1), 2021. [DOI: 10.1115/1.4047744](https://doi.org/10.1115/1.4047744)
 
 ## 技术栈与工具
 
