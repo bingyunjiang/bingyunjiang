@@ -15,7 +15,7 @@
 
 你好 👋 我是BINGYUN JIANG。白天搞工程仿真和 CAE，晚上折腾 AI 科研工作流。一个在工程学界和技术世界之间反复横跳的研究者。
 
-- 🎓 上海交通大学工学博士、浙江大学工程博士
+- 🎓 上海交通大学工学博士、📍 浙江大学工程博士
 - 📚 已出版 6 本工程技术著作（有限元/CAE 方向）
 - 🤖 关注 AI Agent、学术研究自动化、证据驱动写作与知识工作流
 - 🧠 致力于让 AI 不只是生成文字，而是参与真实、透明、可审计的研究过程
@@ -28,6 +28,15 @@
 - **AI Agent Workflows**：可中断、可回溯、可审计的智能体工作流
 - **Scientific Computing**：有限元分析、CAE、Abaqus 与工程仿真
 - **Knowledge Engineering**：文献管理、知识组织、信息检索与结构化输出
+
+## GitHub 统计
+
+<a href="https://github.com/bingyunjiang">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=bingyunjiang&show_icons=true&hide_title=true&hide_border=true&bg_color=00000000&text_color=999&icon_color=58a6ff&ring_color=58a6ff" />
+    <img alt="GitHub stats" src="https://github-readme-stats.vercel.app/api?username=bingyunjiang&show_icons=true&hide_title=true&hide_border=true" />
+  </picture>
+</a>
 
 ## 开源项目
 
@@ -50,6 +59,16 @@
 
 **Bingyun Jiang**, Shaorui Zhang. "The effects of strain rate and grain size on nanocrystalline materials: A theoretical prediction." *Materials & Design*, 87, 49–52, 2015. [DOI: 10.1016/j.matdes.2015.08.012](https://doi.org/10.1016/j.matdes.2015.08.012)
 
+## 技术栈与工具
+
+**语言和平台**：Python · JavaScript · Shell · Abaqus Scripting (Python) · MATLAB
+
+**AI / 框架**：LangChain · Codex API · OpenAI API · LLM Agentic Workflows · RAG
+
+**工程工具**：Abaqus / CAE · ANSYS Workbench · FEA / FEM · Scientific Computing
+
+**知识管理**：Zotero · Obsidian · Markdown · Git
+
 ## 当前关注
 
 ```text
@@ -62,7 +81,7 @@
 
 ## English
 
-I am **Bingyun Jiang**, an engineering researcher, technical author, and builder of AI-assisted research workflows. My work sits at the intersection of finite element analysis, academic writing, and agentic AI — building research processes that are transparent, traceable, and reproducible.
+I am **Bingyun Jiang** (Dr. Jiang, Zhejiang University), an engineering researcher, technical author, and builder of AI-assisted research workflows. My work sits at the intersection of finite element analysis, academic writing, and agentic AI — building research processes that are transparent, traceable, and reproducible.
 
 My current interests include AI for research, evidence-grounded academic writing, agentic workflows, scientific computing with FEA/CAE, literature management, and knowledge engineering.
 
