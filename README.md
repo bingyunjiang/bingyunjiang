@@ -16,7 +16,7 @@
 你好 👋 我是江丙云。白天搞工程仿真和 CAE，晚上折腾 AI 科研工作流。一个在工程学界和技术世界之间反复横跳的研究者。
 
 - 🎓 上海交通大学工学博士、📍 浙江大学工程博士
-- 📚 已出版 6 本工程技术著作（有限元/CAE 方向）
+- 📚 已出版 5 本工程技术著作（有限元/CAE 方向）
 - 🤖 关注 AI Agent、学术研究自动化、证据驱动写作与知识工作流
 - 🧠 致力于让 AI 不只是生成文字，而是参与真实、透明、可审计的研究过程
 
@@ -48,7 +48,7 @@
 
 可复用的新闻与行业信息简报工作流，将分散信息经过收集、去重、排序和证据核验，整理为结构稳定、来源清晰、可直接交付的资讯摘要。
 
-## 代表著作（已出版 6 本，以下为部分代表作）
+## 代表著作（已出版 5 本，以下为部分代表作）
 
 - 《ABAQUS 工程实例详解》，人民邮电出版社，2014
 - 《ABAQUS Python 二次开发攻略》，人民邮电出版社，2016
@@ -57,9 +57,20 @@
 
 ## 代表论文
 
-1. **Bingyun Jiang**, Shaorui Zhang. "The effects of strain rate and grain size on nanocrystalline materials: A theoretical prediction." *Materials & Design*, 87, 49–52, 2015. [DOI: 10.1016/j.matdes.2015.08.012](https://doi.org/10.1016/j.matdes.2015.08.012) — 被引 12 次
-2. **Bingyun Jiang**, Li Li, Huilin Huang. "A structural analysis method for plastics (SAMP) based on integral constitutive model." *Proceedings of the 2016 International Conference on Architectural Engineering and Civil Engineering (AECE 2016)*, 2016. [DOI: 10.2991/aest-16.2016.130](https://doi.org/10.2991/aest-16.2016.130)
-3. **Bingyun Jiang**, Chen Tian. "Integrated Prediction of Mechanical Behavior for the Non-Aging Materials at Various Strain Rates." *Journal of Engineering Materials and Technology*, 143(1), 2021. [DOI: 10.1115/1.4047744](https://doi.org/10.1115/1.4047744)
+### 早期研究（材料本构与数值方法）
+
+1. **Bingyun Jiang**, Shaorui Zhang. "The effects of strain rate and grain size on nanocrystalline materials: A theoretical prediction." *Materials & Design*, 87, 49–52, 2015. [DOI: 10.1016/j.matdes.2015.08.012](https://doi.org/10.1016/j.matdes.2015.08.012) — 被引 14 次
+2. **Bingyun Jiang**, Li Li, Huilin Huang. "A structural analysis method for plastics (SAMP) based on integral constitutive model." *AECE 2016*. [DOI: 10.2991/aest-16.2016.130](https://doi.org/10.2991/aest-16.2016.130)
+3. **Bingyun Jiang**, Jianqin Fu, Dayong Li, Lin Ke. "An Advanced Structural Analysis Method for Connector Terminal Based on Multi-step Simulation." 2016.
+4. **Bingyun Jiang**, Chen Tian. "Integrated Prediction of Mechanical Behavior for the Non-Aging Materials at Various Strain Rates." *Journal of Engineering Materials and Technology*, 143(1), 2021. [DOI: 10.1115/1.4047744](https://doi.org/10.1115/1.4047744)
+
+### 近期研究（工程仿真与 AI 方法）
+
+5. Pengfei Yuan, **Bingyun Jiang**, Dayong Li, Junlei Liu et al. "Rolling over Simulation and Structure Optimization of Electric Automobile Charging Gun." 2024.
+6. **Bingyun Jiang**, Jun-lei Liu, Zhenyu Liu, Hui Liu, Hong Jiang. "Analysis and optimization of injection molding for the part of EV charging equipment." 2025.
+7. **Bingyun Jiang**, Peng Hu, Zhenyu Liu, Pengfei Yuan, Hui Liu. "GA-BP Neural Network-Based Prediction of Impact Resistance in Electric Vehicle Charging Gun." 2025.
+8. Qi Zhou, **Bingyun Jiang**, Feifei Lu, Hongqing Li. "Combined optimization of heat and space for industrial and commercial energy storage pack." *Results in Engineering*, 2025. [DOI: 10.1016/j.rineng.2025.104135](https://doi.org/10.1016/j.rineng.2025.104135)
+9. **Bingyun Jiang**, Qi Zhou, Zhenyu Liu, Hui Liu, Peng Hu, Feifei Lu. "Air Duct Design and Heat Dissipation Optimization for a 480 kW Charging Pile." *Journal of Thermal Science and Engineering Applications* (ASME), 2026. [DOI: 10.1115/1.4071794](https://doi.org/10.1115/1.4071794)
 
 ## 技术栈与工具
 
@@ -83,9 +94,9 @@
 
 ## English
 
-I am **Bingyun Jiang** (Dr. Jiang, Zhejiang University), an engineering researcher, technical author, and builder of AI-assisted research workflows. My work sits at the intersection of finite element analysis, academic writing, and agentic AI — building research processes that are transparent, traceable, and reproducible.
+I am **Bingyun Jiang** (Dr. Jiang, Zhejiang University), an engineering researcher, technical author, and builder of AI-assisted research workflows. My work sits at the intersection of finite element analysis, injection molding simulation, structural optimization, and agentic AI — building research processes that are transparent, traceable, and reproducible.
 
-My current interests include AI for research, evidence-grounded academic writing, agentic workflows, scientific computing with FEA/CAE, literature management, and knowledge engineering.
+My research spans constitutive modeling of nanocrystalline materials, polymer structural analysis (SAMP), integrated mechanical prediction, EV charging equipment simulation and optimization, and AI-driven engineering prediction. More recently, I've been focused on AI for research, evidence-grounded academic writing, and agentic workflows.
 
 I also maintain two open-source projects: [more-paper-workflow-pro-skill](https://github.com/bingyunjiang/more-paper-workflow-pro-skill) (an evidence-closed-loop writing workflow) and [more-news-briefing](https://github.com/bingyunjiang/more-news-briefing) (a structured news briefing pipeline).
 
