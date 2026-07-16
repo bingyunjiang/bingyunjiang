@@ -57,20 +57,13 @@
 
 ## 代表论文
 
-### 早期研究（材料本构与数值方法）
-
 1. **Bingyun Jiang**, Shaorui Zhang. "The effects of strain rate and grain size on nanocrystalline materials: A theoretical prediction." *Materials & Design*, 87, 49–52, 2015. [DOI: 10.1016/j.matdes.2015.08.012](https://doi.org/10.1016/j.matdes.2015.08.012) — 被引 14 次
 2. **Bingyun Jiang**, Li Li, Huilin Huang. "A structural analysis method for plastics (SAMP) based on integral constitutive model." *AECE 2016*. [DOI: 10.2991/aest-16.2016.130](https://doi.org/10.2991/aest-16.2016.130)
 3. **Bingyun Jiang**, Jianqin Fu, Dayong Li, Lin Ke. "An Advanced Structural Analysis Method for Connector Terminal Based on Multi-step Simulation." 2016.
 4. **Bingyun Jiang**, Chen Tian. "Integrated Prediction of Mechanical Behavior for the Non-Aging Materials at Various Strain Rates." *Journal of Engineering Materials and Technology*, 143(1), 2021. [DOI: 10.1115/1.4047744](https://doi.org/10.1115/1.4047744)
-
-### 近期研究（工程仿真与 AI 方法）
-
-5. Pengfei Yuan, **Bingyun Jiang**, Dayong Li, Junlei Liu et al. "Rolling over Simulation and Structure Optimization of Electric Automobile Charging Gun." 2024.
-6. **Bingyun Jiang**, Jun-lei Liu, Zhenyu Liu, Hui Liu, Hong Jiang. "Analysis and optimization of injection molding for the part of EV charging equipment." 2025.
-7. **Bingyun Jiang**, Peng Hu, Zhenyu Liu, Pengfei Yuan, Hui Liu. "GA-BP Neural Network-Based Prediction of Impact Resistance in Electric Vehicle Charging Gun." 2025.
-8. Qi Zhou, **Bingyun Jiang**, Feifei Lu, Hongqing Li. "Combined optimization of heat and space for industrial and commercial energy storage pack." *Results in Engineering*, 2025. [DOI: 10.1016/j.rineng.2025.104135](https://doi.org/10.1016/j.rineng.2025.104135)
-9. **Bingyun Jiang**, Qi Zhou, Zhenyu Liu, Hui Liu, Peng Hu, Feifei Lu. "Air Duct Design and Heat Dissipation Optimization for a 480 kW Charging Pile." *Journal of Thermal Science and Engineering Applications* (ASME), 2026. [DOI: 10.1115/1.4071794](https://doi.org/10.1115/1.4071794)
+5. **Bingyun Jiang**, Jun-lei Liu, Zhenyu Liu, Hui Liu, Hong Jiang. "Analysis and optimization of injection molding for the part of EV charging equipment." 2025.
+6. **Bingyun Jiang**, Peng Hu, Zhenyu Liu, Pengfei Yuan, Hui Liu. "GA-BP Neural Network-Based Prediction of Impact Resistance in Electric Vehicle Charging Gun." 2025.
+7. **Bingyun Jiang**, Qi Zhou, Zhenyu Liu, Hui Liu, Peng Hu, Feifei Lu. "Air Duct Design and Heat Dissipation Optimization for a 480 kW Charging Pile." *Journal of Thermal Science and Engineering Applications* (ASME), 2026. [DOI: 10.1115/1.4071794](https://doi.org/10.1115/1.4071794)
 
 ## 技术栈与工具
 
