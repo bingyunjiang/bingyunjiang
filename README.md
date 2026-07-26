@@ -56,13 +56,15 @@
 
 可复用的新闻与行业信息简报工作流，将分散信息经过收集、去重、排序和证据核验，整理为结构稳定、来源清晰、可直接交付的资讯摘要。
 
-[![more-news-briefing 项目宣传图](https://raw.githubusercontent.com/bingyunjiang/more-news-briefing/main/poster/Image.png)](https://github.com/bingyunjiang/more-news-briefing)
+[![more-news-briefing 能力总览图](assets/project-posters/more-news-briefing-capabilities-v0.1.5.png)](https://github.com/bingyunjiang/more-news-briefing)
 
 ### [more-comic-digitizer](https://github.com/bingyunjiang/more-comic-digitizer)
 
 面向儿童手绘漫画的本地数字化工具，可将拍照或扫描页面整理为可编辑、可审核、可导出的项目，同时保护原作、儿童作者权和家庭隐私，并清晰区分原作、已确认、推断与 AI 共创内容。
 
-[![more-comic-digitizer 功能与使用流程图](https://raw.githubusercontent.com/bingyunjiang/more-comic-digitizer/main/assets/workflow-overview.png)](https://github.com/bingyunjiang/more-comic-digitizer)
+[![more-comic-digitizer 项目宣传图](assets/project-posters/more-comic-digitizer-github-hero.png)](https://github.com/bingyunjiang/more-comic-digitizer)
+
+*虚构案例宣传图（AI-created），不包含真实儿童或家庭信息。*
 
 ## 代表著作（已出版 5 本，以下为部分代表作）
 
