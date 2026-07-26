@@ -44,9 +44,17 @@
 
 面向中文及双语论文写作的证据闭环工作流，覆盖定题、检索、PDF 下载、Zotero 文献管理、论文写作、引用审计与润色。项目强调真实文献、过程透明和结果可追溯。
 
+### [more-sci-figure](https://github.com/bingyunjiang/more-sci-figure)
+
+本地优先、证据可追溯的科研图表数据提取、人工复核、论文级重绘与交付验证工具。项目将算法结果视为候选值，通过来源哈希、质量门和人工复核形成可审计的数据与图表工作流。
+
 ### [more-news-briefing](https://github.com/bingyunjiang/more-news-briefing)
 
 可复用的新闻与行业信息简报工作流，将分散信息经过收集、去重、排序和证据核验，整理为结构稳定、来源清晰、可直接交付的资讯摘要。
+
+### [more-comic-digitizer](https://github.com/bingyunjiang/more-comic-digitizer)
+
+面向儿童手绘漫画的本地数字化工具，可将拍照或扫描页面整理为可编辑、可审核、可导出的项目，同时保护原作、儿童作者权和家庭隐私，并清晰区分原作、已确认、推断与 AI 共创内容。
 
 ## 代表著作（已出版 5 本，以下为部分代表作）
 
@@ -90,6 +98,6 @@ I am **Bingyun Jiang** (Dr. Jiang, Zhejiang University), an engineering research
 
 My research spans constitutive modeling of nanocrystalline materials, polymer structural analysis (SAMP), integrated mechanical prediction, EV charging equipment simulation and optimization, and AI-driven engineering prediction. More recently, I've been focused on AI for research, evidence-grounded academic writing, and agentic workflows.
 
-I also maintain two open-source projects: [more-paper-workflow-pro-skill](https://github.com/bingyunjiang/more-paper-workflow-pro-skill) (an evidence-closed-loop writing workflow) and [more-news-briefing](https://github.com/bingyunjiang/more-news-briefing) (a structured news briefing pipeline).
+I also maintain four open-source projects: [more-paper-workflow-pro-skill](https://github.com/bingyunjiang/more-paper-workflow-pro-skill) (an evidence-closed-loop writing workflow), [more-sci-figure](https://github.com/bingyunjiang/more-sci-figure) (a local-first, auditable scientific figure extraction and redrawing workflow), [more-news-briefing](https://github.com/bingyunjiang/more-news-briefing) (a structured news briefing pipeline), and [more-comic-digitizer](https://github.com/bingyunjiang/more-comic-digitizer) (a provenance-aware digitization workflow for children's hand-drawn comics).
 
 I believe good research AI doesn't replace human judgment — it makes evidence easier to inspect, decisions easier to trace, and scholarly work easier to reproduce.
