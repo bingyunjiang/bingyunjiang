@@ -50,7 +50,7 @@
 
 本地优先、证据可追溯的科研图表数据提取、人工复核、论文级重绘与交付验证工具。项目将算法结果视为候选值，通过来源哈希、质量门和人工复核形成可审计的数据与图表工作流。
 
-[![more-sci-figure 功能总览图](https://raw.githubusercontent.com/bingyunjiang/more-sci-figure/main/assets/more-sci-figure-overview.svg)](https://github.com/bingyunjiang/more-sci-figure)
+[![more-sci-figure 项目宣传图](assets/project-posters/more-sci-figure-promo-16x9.png)](https://github.com/bingyunjiang/more-sci-figure)
 
 ### [more-news-briefing](https://github.com/bingyunjiang/more-news-briefing)
 
