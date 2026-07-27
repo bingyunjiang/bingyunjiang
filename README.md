@@ -31,12 +31,8 @@
 
 ## GitHub 统计
 
-<a href="https://github.com/bingyunjiang">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=bingyunjiang&show_icons=true&hide_title=true&hide_border=true&bg_color=00000000&text_color=999&icon_color=58a6ff&ring_color=58a6ff" />
-    <img alt="GitHub stats" src="https://github-readme-stats.vercel.app/api?username=bingyunjiang&show_icons=true&hide_title=true&hide_border=true" />
-  </picture>
-</a>
+[![GitHub followers](https://img.shields.io/github/followers/bingyunjiang?style=for-the-badge&label=Followers&logo=github)](https://github.com/bingyunjiang?tab=followers)
+[![GitHub stars](https://img.shields.io/github/stars/bingyunjiang?affiliations=OWNER&style=for-the-badge&label=Stars&logo=github)](https://github.com/bingyunjiang?tab=repositories)
 
 ## 开源项目
 
