@@ -18,23 +18,18 @@
 - 🎓 上海交通大学工学博士、📍 浙江大学工程博士
 - 📚 已出版 5 本工程技术著作（有限元/CAE 方向）
 - 🤖 关注 AI Agent、学术研究自动化、证据驱动写作与知识工作流
-- 🧠 致力于让 AI 不只是生成文字，而是参与真实、透明、可审计的研究过程
+- 🧠 致力于 AI 参与真实的科研和 CAE 开发
 
 我目前重点探索的是：如何把文献检索、PDF 获取、Zotero 管理、论文写作、引用审计与信息简报整合为可复用的 AI 工作流，让研究者把精力花在判断上，而不是搬运上。
 
-## 研究与实践方向
+## 研究方向
 
 - **AI for Research**：面向真实文献和证据链的学术研究辅助
 - **AI Agent Workflows**：可中断、可回溯、可审计的智能体工作流
 - **Scientific Computing**：有限元分析、CAE、Abaqus 与工程仿真
 - **Knowledge Engineering**：文献管理、知识组织、信息检索与结构化输出
 
-## GitHub 统计
-
-[![GitHub followers](https://img.shields.io/github/followers/bingyunjiang?style=for-the-badge&label=Followers&logo=github)](https://github.com/bingyunjiang?tab=followers)
-[![GitHub stars](https://img.shields.io/github/stars/bingyunjiang?affiliations=OWNER&style=for-the-badge&label=Stars&logo=github)](https://github.com/bingyunjiang?tab=repositories)
-
-## 开源项目
+## 项目列表
 
 ### [more-paper-workflow](https://github.com/bingyunjiang/more-paper-workflow)
 
