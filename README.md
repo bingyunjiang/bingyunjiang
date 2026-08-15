@@ -54,6 +54,10 @@
 
 [![more-news-briefing 能力总览图](assets/project-posters/more-news-briefing-capabilities-v0.1.6.png)](https://github.com/bingyunjiang/more-news-briefing)
 
+#### [more-chat-excalidraw](https://github.com/bingyunjiang/more-chat-excalidraw)
+
+把自然对话、文档、Mermaid 或知识图谱转换为可编辑的 Excalidraw 画布。项目通过结构化 IR、模板与主题选择、严格质量校验、实时预览和增量编辑，让流程图、架构图、时序图、思维导图及工程分析板能够持续迭代和复用。
+
 ### 私有开发与本地在研
 
 #### more-comic-digitizer · 私有开发
@@ -64,11 +68,11 @@
 
 *虚构案例宣传图（AI-created），不包含真实儿童或家庭信息。*
 
-#### Excalidraw × 飞书可编辑工具链
+### Excalidraw × 飞书可编辑工具链
 
 | 项目 | 当前状态 | 核心用途 |
 | --- | --- | --- |
-| `more-chat-excalidraw` | 私有开发 | 自然对话、文档、Mermaid 或知识图谱 → 结构化 IR → 可编辑 Excalidraw；支持模板选择、严格校验、实时预览和增量迭代 |
+| [more-chat-excalidraw](https://github.com/bingyunjiang/more-chat-excalidraw) | 公开 | 自然对话、文档、Mermaid 或知识图谱 → 结构化 IR → 可编辑 Excalidraw；支持模板选择、严格校验、实时预览和增量迭代 |
 | `more-excalidraw-feishu` | 私有开发 | Excalidraw 画布 → 飞书可编辑白板；保留元素布局、颜色、结构和手绘参考图，浏览器一键导出仍标记为 experimental |
 | `more-feishu-excalidraw` | 本地在研 | 飞书文档 → 可编辑 Excalidraw 的可审计转换；显式记录支持、近似与未支持内容，真实外部写回仅在授权后执行 |
 
@@ -120,6 +124,6 @@ I am **Bingyun Jiang** (Dr. Jiang, Zhejiang University), an engineering research
 
 My research spans constitutive modeling of nanocrystalline materials, polymer structural analysis (SAMP), integrated mechanical prediction, EV charging equipment simulation and optimization, and AI-driven engineering prediction. More recently, I've been focused on AI for research, evidence-grounded academic writing, and agentic workflows.
 
-I build the `more-*` family of independent Agent Skills. The public repositories are [more-paper-workflow](https://github.com/bingyunjiang/more-paper-workflow), [more-sci-figure](https://github.com/bingyunjiang/more-sci-figure), and [more-news-briefing](https://github.com/bingyunjiang/more-news-briefing). Private or in-development projects cover provenance-aware comic digitization, natural-language-to-Excalidraw generation, Excalidraw-to-Feishu whiteboard conversion, and auditable Feishu-to-Excalidraw conversion.
+I build the `more-*` family of independent Agent Skills. The public repositories are [more-paper-workflow](https://github.com/bingyunjiang/more-paper-workflow), [more-sci-figure](https://github.com/bingyunjiang/more-sci-figure), [more-news-briefing](https://github.com/bingyunjiang/more-news-briefing), and [more-chat-excalidraw](https://github.com/bingyunjiang/more-chat-excalidraw). Private or in-development projects cover provenance-aware comic digitization, Excalidraw-to-Feishu whiteboard conversion, and auditable Feishu-to-Excalidraw conversion.
 
 I believe good research AI doesn't replace human judgment — it makes evidence easier to inspect, decisions easier to trace, and scholarly work easier to reproduce.
