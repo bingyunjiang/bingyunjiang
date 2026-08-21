@@ -20,7 +20,7 @@
 - 🤖 关注 AI Agent、学术研究自动化、证据驱动写作与知识工作流
 - 🧠 致力于让 AI 参与真实的科研、CAE 与可编辑知识生产
 
-我正在持续开发 `more-*` 系列 Agent Skills：从论文证据链、科研图表和新闻简报，到儿童漫画数字化、对话式 Excalidraw 与飞书可编辑白板转换。它们彼此独立，但共同坚持本地优先、人工门控、过程可审计和结果可复现。
+我正在持续开发 `more-*` 系列项目：从论文证据链、科研图表和新闻简报，到儿童漫画数字化、对话式 Excalidraw、飞书可编辑白板转换，以及白板演示与本地录屏。系列同时包含 Agent Skills 和本地 Web 工具；它们彼此独立，但共同坚持本地优先、人工门控、过程可审计和结果可复现。
 
 ## 研究方向
 
@@ -28,11 +28,11 @@
 - **AI Agent Workflows**：可中断、可回溯、可审计的智能体工作流
 - **Scientific Computing**：有限元分析、CAE、Abaqus 与工程仿真
 - **Scientific Visualization**：科研图表提取、异常复核、论文级重绘与验证
-- **Editable Knowledge Tools**：Excalidraw、飞书白板与结构化知识的可编辑转换
+- **Editable Knowledge Tools**：Excalidraw、飞书白板、结构化知识转换与白板演示录制
 
 ## More 系列项目
 
-`more-*` 是一组面向真实研究、信息处理与内容创作任务的独立 Agent Skills。每个项目独立安装、独立运行、独立验收；系列名称表示共同的工程原则，不表示项目会自动互相调用或共享状态。
+`more-*` 是一组面向真实研究、信息处理、可编辑视觉与内容创作任务的独立项目，包含 Agent Skills、本地 Web 插件和配套工具。每个项目独立安装、独立运行、独立验收；系列名称表示共同的工程原则，不表示项目会自动互相调用或共享状态。
 
 ### 公开项目
 
@@ -58,6 +58,12 @@
 
 把自然对话、文档、Mermaid 或知识图谱转换为可编辑的 Excalidraw 画布。项目通过结构化 IR、模板与主题选择、严格质量校验、实时预览和增量编辑，让流程图、架构图、时序图、思维导图及工程分析板能够持续迭代和复用。
 
+#### [more-excalicord](https://github.com/bingyunjiang/more-excalicord)
+
+面向自托管 Excalidraw 的本地增强插件，把同一张白板中的 Frame 组织为可导航、可总览和可播放的幻灯片，并集成屏幕/窗口、白板画布或当前幻灯片录制、摄像头画中画、视频合成、提词器和本地成片保存。
+
+[![more-excalicord 录制面板与幻灯片导航](assets/project-posters/more-excalicord-recording-panel.png)](https://github.com/bingyunjiang/more-excalicord)
+
 ### 私有开发与本地在研
 
 #### more-comic-digitizer · 私有开发
@@ -68,16 +74,18 @@
 
 *虚构案例宣传图（AI-created），不包含真实儿童或家庭信息。*
 
-### Excalidraw × 飞书可编辑工具链
+### Excalidraw 可编辑视觉工具链
 
 | 项目 | 当前状态 | 核心用途 |
 | --- | --- | --- |
 | [more-chat-excalidraw](https://github.com/bingyunjiang/more-chat-excalidraw) | 公开 | 自然对话、文档、Mermaid 或知识图谱 → 结构化 IR → 可编辑 Excalidraw；支持模板选择、严格校验、实时预览和增量迭代 |
+| [more-excalicord](https://github.com/bingyunjiang/more-excalicord) | 公开 | Excalidraw Frame → 幻灯片导航、演示播放、画中画录屏、提词器和本地成片；白板内容保持可编辑 |
 | `more-excalidraw-feishu` | 私有开发 | Excalidraw 画布 → 飞书可编辑白板；保留元素布局、颜色、结构和手绘参考图，浏览器一键导出仍标记为 experimental |
 | `more-feishu-excalidraw` | 本地在研 | 飞书文档 → 可编辑 Excalidraw 的可审计转换；显式记录支持、近似与未支持内容，真实外部写回仅在授权后执行 |
 
 ```text
 自然语言 / 文档 / Mermaid → more-chat-excalidraw → Excalidraw 画布
+Excalidraw 画布            → more-excalicord → 幻灯片 / 演示 / 本地录屏
 Excalidraw 画布            → more-excalidraw-feishu → 飞书可编辑白板
 飞书文档                   → more-feishu-excalidraw → Excalidraw 画布
 ```
@@ -106,7 +114,7 @@ Excalidraw 画布            → more-excalidraw-feishu → 飞书可编辑白�
 
 **工程工具**：Abaqus / CAE · ANSYS Workbench · FEA / FEM · Scientific Computing
 
-**知识与可视化**：Zotero · Excalidraw · Feishu / Lark · SVG · Markdown · Git
+**知识与可视化**：Zotero · Excalidraw · Feishu / Lark · SVG · Web MediaRecorder · Markdown · Git
 
 ## 当前关注
 
@@ -120,10 +128,10 @@ Excalidraw 画布            → more-excalidraw-feishu → 飞书可编辑白�
 
 ## English
 
-I am **Bingyun Jiang** (Dr. Jiang, Zhejiang University), an engineering researcher, technical author, and builder of AI-assisted research workflows. My work sits at the intersection of finite element analysis, injection molding simulation, structural optimization, and agentic AI — building research processes that are transparent, traceable, and reproducible.
+I am **Bingyun Jiang** (Dr. Jiang, Zhejiang University), an engineering researcher, technical author, and builder of AI-assisted research workflows and editable visual tools. My work sits at the intersection of finite element analysis, injection molding simulation, structural optimization, and agentic AI — building research processes that are transparent, traceable, and reproducible.
 
 My research spans constitutive modeling of nanocrystalline materials, polymer structural analysis (SAMP), integrated mechanical prediction, EV charging equipment simulation and optimization, and AI-driven engineering prediction. More recently, I've been focused on AI for research, evidence-grounded academic writing, and agentic workflows.
 
-I build the `more-*` family of independent Agent Skills. The public repositories are [more-paper-workflow](https://github.com/bingyunjiang/more-paper-workflow), [more-sci-figure](https://github.com/bingyunjiang/more-sci-figure), [more-news-briefing](https://github.com/bingyunjiang/more-news-briefing), and [more-chat-excalidraw](https://github.com/bingyunjiang/more-chat-excalidraw). Private or in-development projects cover provenance-aware comic digitization, Excalidraw-to-Feishu whiteboard conversion, and auditable Feishu-to-Excalidraw conversion.
+I build the `more-*` family of independent Agent Skills and local-first tools. The public repositories are [more-paper-workflow](https://github.com/bingyunjiang/more-paper-workflow), [more-sci-figure](https://github.com/bingyunjiang/more-sci-figure), [more-news-briefing](https://github.com/bingyunjiang/more-news-briefing), [more-chat-excalidraw](https://github.com/bingyunjiang/more-chat-excalidraw), and [more-excalicord](https://github.com/bingyunjiang/more-excalicord). Private or in-development projects cover provenance-aware comic digitization, Excalidraw-to-Feishu whiteboard conversion, and auditable Feishu-to-Excalidraw conversion.
 
 I believe good research AI doesn't replace human judgment — it makes evidence easier to inspect, decisions easier to trace, and scholarly work easier to reproduce.
